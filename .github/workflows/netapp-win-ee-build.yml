@@ -1,5 +1,5 @@
 # Workflow name
-name: ServiceNow EE build
+name: NetApp-Windows EE build
 
 # Controls when the workflow will run
 on:
