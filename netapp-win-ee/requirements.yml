@@ -1,6 +1,5 @@
 ---
 collections:
   - netapp.ontap
-  - netapp.um_info
   - community.windows
   - ansible.windows
