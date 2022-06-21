@@ -4,4 +4,3 @@ collections:
   - community.windows
   - ansible.windows
   - ansible.utils
-  - ansible.netcommon
