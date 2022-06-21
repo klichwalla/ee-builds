@@ -3,3 +3,4 @@ collections:
   - netapp.ontap
   - community.windows
   - ansible.windows
+  - ansible.netcommon
