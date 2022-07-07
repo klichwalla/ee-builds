@@ -2,5 +2,3 @@ ansible version >= 2.9
 requests >= 2.28
 netapp-lib version >= 2021.6.25
 netaddr
-jmespath
-six
