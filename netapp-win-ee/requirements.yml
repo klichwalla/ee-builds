@@ -5,3 +5,4 @@ collections:
   - ansible.windows
   - ansible.utils
   - ansible.netcommon
+  - community.general
